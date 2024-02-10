@@ -3,7 +3,7 @@ made: awakno
 @Contributor: Null
 @Version: 1.0
 """
-from mariadb import connect
+
 import pymongo
 import json
 from librairie.color import Color
