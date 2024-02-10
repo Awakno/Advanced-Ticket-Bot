@@ -2,7 +2,7 @@
 
 ## Plugins
 
--   Ticket : Configuration du plugin de ticket: -> statut: ⌛
+-   Ticket : Configuration du plugin de ticket: -> statut: ✅
 
 ### Ticket
 
