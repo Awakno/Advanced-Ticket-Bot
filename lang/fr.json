@@ -1,0 +1,81 @@
+{
+	"Admin": {
+		"Main": {
+			"title": "Bienvenue sur le menu administrateur",
+			"description": "Utilise le menu ci dessous pour gerer le serveur",
+			"footer": "My-Entrainement",
+			"Select": {
+				"placeholder": "Choisissez une option",
+				"Option": [
+					{
+						"label": "Configurer les plugins",
+						"value": "Aller simple vers le panneau de configuration des plugins",
+						"emoji": "🔧"
+					}
+				]
+			}
+		},
+		"Config": {
+			"title": "Panneau de configuration",
+			"description": "Utilise le menu ci dessous pour configurer le serveur",
+			"footer": "My-Entrainement",
+			"Select": {
+				"placeholder": "Choisissez une option",
+				"Option": [
+					{
+						"label": "Configurer le plugins de ticket",
+						"value": "Aller simple vers le panneau de configuration du plugin de ticket",
+						"emoji": "🎫"
+					}
+				]
+			}
+		},
+		"Plugins": {
+			"Ticket": {
+				"title": "Panneau de configuration du plugin de ticket",
+				"description": "Utilise le menu ci dessous pour configurer le plugin de ticket",
+				"footer": "My-Entrainement",
+				"Select": {
+					"placeholder": "Choisissez une option",
+					"Option": [
+						{
+							"label": "Configurer le bouton",
+							"value": "Aller simple vers le panneau de configuration du bouton",
+							"emoji": "🔘"
+						},
+						{
+							"label": "Configurer le panneau",
+							"value": "Aller simple vers le panneau de configuration du panneau",
+							"emoji": "💬"
+						},
+						{
+							"label": "Configurer le salon",
+							"value": "Configurer le salon",
+							"emoji": "📢"
+						},
+						{
+							"label": "Envoie du panneau",
+							"value": "Aller simple vers l'envoie du panneau",
+							"emoji": "✉️"
+						},
+						{
+							"label": "Configuration de la catégories",
+							"value": "Configurer la catégories",
+							"emoji": "🗃️"
+						},
+						{
+							"label": "Configurer le support",
+							"value": "Configurer le support",
+							"emoji": "👨‍💻"
+						},
+						{
+							"label": "Configurer le message dans le ticket",
+							"value": "Configurer le message dans le ticket",
+							"emoji": "💬"
+						}
+					]
+				}
+			}
+		}
+	}
+}

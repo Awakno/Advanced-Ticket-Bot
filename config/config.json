@@ -1,0 +1,9 @@
+{
+	"token": "TOKEN",
+	"owner": [],
+	"db": {
+		"MDB": {
+			"url": "mongodb://localhost:27017/"
+		}
+	}
+}
